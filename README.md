@@ -1,3 +1,4 @@
 # fisrt.reporistory
-this is my first Git Reporistory
+This is my first Git Reporistory.
+<br>
 auhtor- Akshat Srivasstava
